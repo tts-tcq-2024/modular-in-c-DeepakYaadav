@@ -1,5 +1,5 @@
-#include "Test_ColorPair.h"
-#include "ColorPair_definitions.h"
+#include "test_colorpair.h"
+#include "colorpair_definitions.h"
 
 int main() {
     runColorPairTests();          // Run all tests
