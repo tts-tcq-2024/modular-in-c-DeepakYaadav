@@ -1,4 +1,4 @@
-#include "test_colorpair.h"
+#include "Test_ColorPair.h"
 
 int main() {
     runColorPairTests(); 
