@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "ColorPair_definitions.h"
+#include "colorpair_definitions.h"
 
 static MajorColor getMajorColorFromPairNumber(int zeroBasedPairNumber) {  
     return (MajorColor)(zeroBasedPairNumber / getNumberOfMinorColors());    
