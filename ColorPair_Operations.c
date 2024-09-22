@@ -1,4 +1,4 @@
-// colorpair_operations.c
+
 #include <stdio.h>
 #include "ColorPair_definitions.h"
 
@@ -16,7 +16,7 @@ void colorPairToString(const ColorPair* colorPair, char* buffer) {
             getMinorColorName(colorPair->minorColor));                  
 }
 
-// Get the ColorPair from the pair number
+
 ColorPair getColorFromPairNumber(int pairNumber) {                        
     ColorPair colorPair;                                                   
     int zeroBasedPairNumber = pairNumber - 1;                             
