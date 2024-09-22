@@ -1,6 +1,6 @@
 // colorpair_operations.c
 #include <stdio.h>
-#include "colorpair_definitions.h"
+#include "ColorPair_Definitions.h"
 
 // Helper function to calculate the major color based on the pair number
 static MajorColor getMajorColorFromPairNumber(int zeroBasedPairNumber) {
