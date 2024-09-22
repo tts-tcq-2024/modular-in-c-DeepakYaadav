@@ -1,5 +1,5 @@
 // color_operations.c
-#include "Color_Definitions.h"
+#include "color_definitions.h"
 
 const char* MajorColorNames[] = { "White", "Red", "Black", "Yellow", "Violet" };
 const char* MinorColorNames[] = { "Blue", "Orange", "Green", "Brown", "Slate" };
