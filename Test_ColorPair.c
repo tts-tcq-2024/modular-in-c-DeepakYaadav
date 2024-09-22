@@ -1,6 +1,6 @@
 // test_colorpair.c
 #include "Test_ColorPair.h"
-#include "ColorPair_Definitions.h"
+#include "ColorPair_definitions.h"
 #include <assert.h>
 #include <stdio.h>
 
