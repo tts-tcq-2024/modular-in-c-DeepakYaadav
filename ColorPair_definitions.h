@@ -2,7 +2,7 @@
 #ifndef COLORPAIR_DEFINITIONS_H
 #define COLORPAIR_DEFINITIONS_H
 
-#include "color_definitions.h"
+#include "Color_Definitions.h"
 
 // Struct for ColorPair
 typedef struct {
